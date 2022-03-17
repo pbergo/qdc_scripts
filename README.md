@@ -1,6 +1,5 @@
-# qdc_scripts
 # Qlik Catalog Simple Scripts
- 
+ qdc_scripts 
  Contains some scripts to use within Qlik Catalg
 
 ## Contents
