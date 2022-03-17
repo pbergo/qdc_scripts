@@ -7,5 +7,8 @@
 
 - [QDC Load Source Entities](./qdc_ldsrc.sh) (qdc_ldsrc.sh) - Load all entities within a source
 
+- [QDC Execute DataFlow](./qdc_exdf.sh) (qdc_exdf.sh) - Execute a DataFlow using a df name
+
+
 
 
